@@ -1,7 +1,7 @@
 
 # 🛒 CRUD de Produtos com Spring Boot, Testes Unitários e JWT
 
-Este repositório contém uma aplicação RESTful desenvolvida com **Spring Boot**, que realiza operações de **CRUD de produtos**, integrando autenticação e autorização com **JWT (JSON Web Token)** e **controle de acesso baseado em roles (ADMIN e USER)**.
+Este repositório contém uma aplicação REST desenvolvida com **Spring Boot**, que realiza operações de **CRUD de produtos**, integrando autenticação e autorização com **JWT (JSON Web Token)** e **controle de acesso baseado em roles (ADMIN e USER)**.
 
 Além disso, a aplicação conta com **testes unitários utilizando JUnit 5 e Mockito**, reforçando a confiabilidade da lógica de negócio.
 
